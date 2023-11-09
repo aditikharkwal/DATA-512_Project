@@ -12,5 +12,5 @@ This course project endeavors to delve into a detailed analysis of the ramificat
 
 We were provided with website links from where we scrapped data and also with some initial code to start with. Here are some of the links:
 
-1) [Data Source:] {(https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81)}
+1) Data Source: https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81
 2) 
