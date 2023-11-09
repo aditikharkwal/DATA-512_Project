@@ -38,4 +38,16 @@ You will illustrate the work of your analysis with a few time series graphs. The
 3) Produce a time series graph containing your fire smoke estimate for your city and the AQI estimate for your city.
 
 
+**Results of Visual Analysis and Forecasting**
+
+Following are some results out of my visual analysis and forecasting:
+
+1) Number of Fires vs Distance
+
+![image](https://github.com/aditikharkwal/DATA-512_Project/assets/38849313/b9dc9835-8503-450a-a518-d4307bf9bce6)
+
+2) Total Acres Burned per year
+![image](https://github.com/aditikharkwal/DATA-512_Project/assets/38849313/738039a7-cf54-48e3-8030-840332dec8c0)
+ 
+3) Time series graph and AQI estimate of my city
 
