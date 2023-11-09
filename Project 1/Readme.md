@@ -19,6 +19,7 @@ We were provided with website links from where we scrapped data and also with so
 # Implementation
 
 I have implemented the steps till estimation of smoke from my city, some relevant visualizations and forecasting in the .ipynb file titles - "Project 1 - part 1.ipynb" (Step 1: (1-3))
+
 The second part of the project implementing the AQI part in the file named - "Project 1 - part 2.ipynb" (Step 1: (4-5))
 
 **Step 1: Create fire smoke estimates**
