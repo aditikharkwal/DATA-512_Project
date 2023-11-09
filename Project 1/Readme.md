@@ -14,6 +14,7 @@ We were provided with website links from where we scrapped data and also with so
 
 1) Data Source: https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81
 2) AQI information source: https://www.airnow.gov/sites/default/files/2020-05/aqi-technical-assistance-document-sept2018.pdf
+3) The [wildfire](https://github.com/aditikharkwal/DATA-512_Project/tree/main/Project%201/wildfire) folder with beginner code was provided to us by Dr. McDonald.
 
 # Implementation
 
