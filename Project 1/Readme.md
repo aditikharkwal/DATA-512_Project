@@ -47,12 +47,15 @@ Following are some results out of my visual analysis and forecasting:
 ![image](https://github.com/aditikharkwal/DATA-512_Project/assets/38849313/b9dc9835-8503-450a-a518-d4307bf9bce6)
 
 2) Total Acres Burned per year
+   
 ![image](https://github.com/aditikharkwal/DATA-512_Project/assets/38849313/738039a7-cf54-48e3-8030-840332dec8c0)
  
-3) Time series graph and AQI estimate of my city
+4) Time series graph and AQI estimate of my city
+   
 ![image](https://github.com/aditikharkwal/DATA-512_Project/assets/38849313/7bd3398e-edf7-4547-ab0e-bcfe43d4994c)
 
-4) Time series analysis of yearly smoke estimates for the next 25 years
+6) Time series analysis of yearly smoke estimates for the next 25 years
+   
 ![image](https://github.com/aditikharkwal/DATA-512_Project/assets/38849313/d3d4f504-70e0-493b-be55-b80034fd9501)
 
 
