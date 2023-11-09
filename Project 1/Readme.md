@@ -61,3 +61,10 @@ Following are some results out of my visual analysis and forecasting:
 ![image](https://github.com/aditikharkwal/DATA-512_Project/assets/38849313/d3d4f504-70e0-493b-be55-b80034fd9501)
 
 
+#Reproducing the Analysis
+To replicate this analysis, adhere to the following instructions:
+
+Clone this repository to your local machine. Ensure Python is installed with the required libraries. Within the project directory, create a 'data' folder. Download the GeoJSON Files.zip from this link, extract the "USGS_Wildland_Fire_Combined_Dataset.json" file, and place it in the 'data' folder. Execute 'wildfire_analysis.ipynb' to generate analyses such as smoke analysis, AQI analysis, and their comparison. Examine the results and interpret the findings accordingly.
+
+#License
+This project is licensed under the MIT License - see the LICENSE file for details.
