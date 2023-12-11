@@ -1,4 +1,4 @@
-# Project 1 - DATA 512 
+# Part 1 - DATA 512 
 
 # Common Analysis for the Wildfire impact on Cladwell city in the state of Idaho
 
