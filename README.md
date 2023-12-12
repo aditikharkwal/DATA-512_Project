@@ -2,13 +2,13 @@
 
 The course project consists of four parts: 
 
-Part 1 - Common Analysis sets the stage for the subsequent assignments. In Part 1 you conduct a base analysis. All of the students in the class will conduct the same analysis, but with a slightly different data subset.
+Part 1 - Common Analysis sets the stage for the subsequent assignments. In Part 1, I conducted the base analysis for the city Caldwell, Idaho. After extracting data from the relevant resources I evaluated the fires around Caldwell, total acres burned per year for the fires occurring within 1250 miles for 60 years, estimated smoke impact, compared fire smoke estimate and the scaled AQI estimate and finally predicted the smoke estimates for the next 25 years.
 
-Part 2 - Extension Plan will require you to ask a human centered data science question that extends the work in Course Project Part 1 - Common Analysis. 
+Part 2 - Extension Plan, extends the project into a more human centered approach where I evaluated the impact of the wildfires around Caldwell on the economy of the city. I make a plan and selected an authentic data source - DataUSA to extract data for the city and selected the subparts of economy I want to evaluate - primarily occupation and employment by industry.
 
-Part 3 - Presentation will require you to give a modified (shorter) PechaKucha presentation of your completed project.
+Part 3 - I did a PechaKucha presentation of my completed project of the analysis I conducted on the economy data of Caldwell.
 
-Part 4 - Project Repository, creation of a fully documented repository and also requires the submission of a written project report.
+Part 4 - Project Report.
 
 # Summary of the project
 
